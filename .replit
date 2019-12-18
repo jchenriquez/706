@@ -1,2 +1,6 @@
 language = "go"
+<<<<<<< HEAD
 run = "go run main.go"
+=======
+run = "go build main.go"
+>>>>>>> origin/master
